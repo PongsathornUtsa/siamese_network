@@ -5,7 +5,7 @@
 
 
 ## Description
-This repository contains code for training and testing a Siamese neural network for image similarity. The code uses two different pre-trained models for feature extraction: InceptionResNetV2 and VGG19.
+This repository contains code for training and testing a Siamese neural network for image similarity. The code uses two different pre-trained models for feature extraction: InceptionResNetV2 and VGG19. And train with triplets loss
 
 
 
